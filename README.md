@@ -1,5 +1,5 @@
 # :green_circle: Stage 06 - Challenge GitHub Favorites. :sunflower:
-### **Desafio da Rocketseat para treinar conceitos de JavaScript, HTML, CSS**
+### **Desafio da Rocketseat para treinar conceitos de JavaScript, HTML e CSS.**
 
 <p align="center">
 
